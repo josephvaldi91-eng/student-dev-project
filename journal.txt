@@ -1,0 +1,5 @@
+Création du repertoire de travail local nommé "student-dev-projet".
+Initialisation du dépot Git local avec la commande "git init". 
+Création et rédaction du fichier index.html et journal.txt pour présenter mes compétences et donnés les processus de ce projet.
+Premier commit effectué pour sauvegarder l'état initial des fichiers.
+Création d'un dépot Github et liaiso du dépot sur Github et liaison avec mon dossier local.
